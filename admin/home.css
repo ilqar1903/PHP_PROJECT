@@ -1,0 +1,26 @@
+.home{
+	border: 1px solid #ddd;
+	width:220px;
+	padding: 5px;
+	margin: 10px;
+	height: 150px;
+	background: #900;
+	opacity: 0.8;
+	float: left;
+}
+.home h3{
+	border: 1px solid #ddd;
+	padding: 5px;
+	background: #a21;
+	font-size: 20px;
+	text-align: center;
+	color: lightyellow;
+	
+
+}
+.home p{
+padding: 5px;
+font-size: 17px;
+color: #eca;
+
+}

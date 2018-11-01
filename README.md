@@ -1,6 +1,6 @@
 # PHP_PROJECT
 News site with admin panel.
-Site is created with HTML5 CSS3 PHP and  Mysql.
+Site is created with HTML5 CSS3 PHP(with PDO) and  Mysql.
 ![image9](https://user-images.githubusercontent.com/32732984/47845775-53500a00-dddf-11e8-8693-b00d401946bd.PNG)
 
 ![image6](https://user-images.githubusercontent.com/32732984/47845495-a7a6ba00-ddde-11e8-9d7a-849a184f0c52.PNG)
